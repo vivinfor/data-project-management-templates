@@ -43,8 +43,6 @@ Contributions are welcome! If you have a **useful template** or an **improvement
 ## 📢 Spread the Word
 If this repository helps you, consider **starring ⭐ it** and sharing it with the community! 🚀  
 
-📬 **Let’s connect!** Reach out on [LinkedIn](#) and let’s discuss data-driven strategies!  
-
 ---  
 🔍 *Helping professionals optimize data project management with structured frameworks!*
 
